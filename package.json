@@ -1,0 +1,19 @@
+{
+  "name": "glidex",
+  "version": "1.0.0",
+  "description": "GlideX is a modern and customizable mouse pointer tracking library that enables smooth and effortless movement tracking.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsmailCharfi/GlideX.git"
+  },
+  "author": "Ismail Charfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsmailCharfi/GlideX/issues"
+  },
+  "homepage": "https://github.com/IsmailCharfi/GlideX#readme"
+}
